@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#4B9484">
+    
+    <ImageView
+        android:id="@+id/ivLogoReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ps" />
+    
+    
+    <EditText
+        android:id="@+id/etUserFName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivLogoReg"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="First Name" />
+    
+    
+    <EditText
+        android:id="@+id/etUserSName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etUserFName"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Surname" />
+    
+    
+    <EditText
+        android:id="@+id/etUserAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etUserSName"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Age"
+        android:inputType="number" />
+    
+    
+     <EditText
+        android:id="@+id/etUserWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etUserAge"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Weight (in Pounds)"
+        android:inputType="numberDecimal" />
+    
+    
+
+    <EditText
+        android:id="@+id/etUserHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/etUserWeight"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Height (in cm)"
+        android:inputType="numberDecimal" />
+    
+    
+    <EditText
+        android:id="@+id/etNOKName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/etUserHeight"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Next of Kin (Name)" />
+    
+    
+
+    <EditText
+        android:id="@+id/etNOKPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/etNOKName"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="2dp"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:ems="12"
+        android:hint="Next of Kin (Phone)"
+        android:inputType="phone" >
+
+    </EditText>
+
+    
+    
+
+    <Button
+        android:id="@+id/bRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/etNOKPhone"
+        android:background="@drawable/buttons"
+        android:layout_marginTop="15dp"
+        android:onClick="bRegister"
+        android:textSize="20sp"
+        android:text="Register" />
+
+</RelativeLayout>

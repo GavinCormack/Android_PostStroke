@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    
+    <ImageView
+        android:id="@+id/ivImageTur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/tutorial" />
+    
+    
+    <com.teamj.poststroke.TutorialView
+        android:id="@+id/canvasTut"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    
+    <Button
+        android:id="@+id/bPanic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textSize="30sp"
+        android:onClick="bPanic"
+        android:background="@drawable/panic_button"
+        android:text="PANIC" />
+
+    <TextView
+        android:id="@+id/tvTut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:text="Trace the symbols using your finger. Stay inside the lines. Example below." />
+
+    <Button
+        android:id="@+id/bOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="20sp"
+        android:onClick="bOK"
+        android:background="@drawable/buttons"
+        android:text="OK" />
+
+</RelativeLayout>

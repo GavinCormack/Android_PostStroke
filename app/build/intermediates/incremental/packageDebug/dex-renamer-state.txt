@@ -1,0 +1,7 @@
+#Sat Oct 22 15:11:47 IST 2016
+base.0=/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b480a6e6d04edc7914421644d6606974fc3ca2b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2741bc35ab7ddc208a6d16708eb5edd0f4a58cab/classes.dex
+base.1=/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2741bc35ab7ddc208a6d16708eb5edd0f4a58cab
+file.0=/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b480a6e6d04edc7914421644d6606974fc3ca2b1/classes.dex

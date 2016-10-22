@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="#4b9484" >
+	
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ps" />
+    
+
+    <Button
+        android:id="@+id/bScores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:textSize="20sp"
+        android:layout_margin="2dp"
+        android:onClick="bScores"
+        android:background="@drawable/buttons"
+        android:text="Scores" />
+
+    <Button
+        android:id="@+id/bPanic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textSize="30sp"
+        android:onClick="bPanic"
+        android:background="@drawable/panic_button"
+        android:text="PANIC" />
+
+    <Button
+        android:id="@+id/bPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:onClick="bPlay"
+        android:background="@drawable/buttons"
+        android:text="Play Game" />
+
+    <Button
+        android:id="@+id/bHowTo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bPlay"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:onClick="bHowTo"
+        android:background="@drawable/buttons"
+        android:text="How To Play" />
+
+    <Button
+        android:id="@+id/bCredit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:textSize="20sp"
+        android:onClick="checkBalance"
+        android:background="@drawable/buttons"
+        android:text="Check Credit" />
+
+    <Button
+        android:id="@+id/bUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="20sp"
+        android:onClick="userDetails"
+        android:background="@drawable/buttons"
+        android:text="User" />
+
+    
+
+</RelativeLayout>

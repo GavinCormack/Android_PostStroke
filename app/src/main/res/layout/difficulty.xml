@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4b9484">
+
+    <Button
+        android:id="@+id/bMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="20sp"
+        android:onClick="bMedium"
+        android:background="@drawable/buttons"
+        android:text="Medium" />
+
+    <Button
+        android:id="@+id/bEasy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bMedium"
+        android:layout_alignLeft="@+id/bMedium"
+        android:layout_alignRight="@+id/bMedium"
+        android:textSize="20sp"
+        android:onClick="bEasy"
+        android:background="@drawable/buttons"
+        android:text="Easy" />
+
+    <Button
+        android:id="@+id/bHard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bMedium"
+        android:layout_alignRight="@+id/bMedium"
+        android:layout_below="@+id/bMedium"
+        android:textSize="20sp"
+        android:onClick="bHard"
+        android:background="@drawable/buttons"
+        android:text="Hard" />
+
+    <Button
+        android:id="@+id/bPanic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textSize="30sp"
+        android:onClick="bPanic"
+        android:background="@drawable/panic_button"
+        android:text="PANIC" />
+
+    <Button
+        android:id="@+id/bBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:onClick="bBack"
+        android:textSize="20sp"
+        android:background="@drawable/buttons"
+        android:text="Back" />
+
+</RelativeLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#4B9484">
+
+    <TextView
+        android:id="@+id/tvMyDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="My Details"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvMyDetails"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Full Name"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvUserAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvUserName"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Age"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvUserWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvUserAge"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Weight"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvUserHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvUserWeight"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Height"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvNOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvUserHeight"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Next of Kin"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvNOKName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_below="@+id/tvNOK"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="nok Name"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvNOKPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvNOKName"
+        android:layout_margin="5dp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="nok Phone"
+        android:textSize="20sp" />
+
+</RelativeLayout>

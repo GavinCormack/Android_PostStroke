@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#4b9484">
+    
+	<com.teamj.poststroke.ScoreView
+        android:id="@+id/scoresGraph"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    
+    
+</RelativeLayout>

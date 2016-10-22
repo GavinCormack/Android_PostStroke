@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/buttons.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/buttons.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easysixteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easysixteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easythirteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easythirteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumseventeen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumseventeen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/tutorial.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/tutorial.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumone.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumone.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumtwelve.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumtwelve.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumthirteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumthirteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardfifteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardfifteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumtwenty.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumtwenty.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumfive.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumfive.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easynineteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easynineteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyseven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyseven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/panic_button.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/panic_button.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardeleven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardeleven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardseven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardseven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumnine.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumnine.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardeight.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardeight.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyone.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyone.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardtwo.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardtwo.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumfifteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumfifteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardtwelve.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardtwelve.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardnine.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardnine.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardfive.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardfive.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardseventeen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardseventeen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardone.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardone.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easytwelve.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easytwelve.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardsix.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardsix.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumfourteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumfourteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyfive.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyfive.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardthree.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardthree.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardthirteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardthirteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardten.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardten.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyeight.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyeight.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyeighteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyeighteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardfour.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardfour.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumseven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumseven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easysix.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easysix.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easynine.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easynine.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumeight.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumeight.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyfifteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyfifteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easythree.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easythree.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumsixteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumsixteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyeleven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyeleven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumthree.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumthree.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumsix.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumsix.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardnineteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardnineteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easytwo.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easytwo.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyfourteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyfourteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardtwenty.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardtwenty.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardfourteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardfourteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumtwo.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumtwo.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardsixteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardsixteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumeighteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumeighteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/hardeighteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/hardeighteen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyfour.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyfour.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumeleven.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumeleven.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumten.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumten.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easytwenty.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easytwenty.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyseventeen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyseventeen.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/ps.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/ps.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumfour.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumfour.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/easyten.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/easyten.png"
+    },
+    {
+        "merged": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/build/intermediates/res/merged/debug/drawable/mediumnineteen.png",
+        "source": "/Volumes/GAVIN_USB/Dev/Android/Android Projects/DrawTest/app/src/main/res/drawable/mediumnineteen.png"
+    }
+]
